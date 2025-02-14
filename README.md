@@ -98,9 +98,9 @@ dhcp traffic that was captured
 <img width="1680" alt="Screen Shot 2025-02-13 at 9 46 13 PM" src="https://github.com/user-attachments/assets/50e6fb9b-9fea-4124-914c-b2610462de78" />
  i fillerd for rdp traffic by by using udp.port 3389 
 <img width="1680" alt="Screen Shot 2025-02-13 at 9 52 49 PM" src="https://github.com/user-attachments/assets/e0f5af7b-c02a-4d17-a65f-b9cc49c2a42c" />
+ i used wireshark to observe dns traffic using udp.port 53 
 
-
-
+<img width="1680" alt="Screen Shot 2025-02-13 at 9 47 34 PM" src="https://github.com/user-attachments/assets/1811b38f-bf3f-42b3-811f-8b9e89d04721" />
 
 
 
