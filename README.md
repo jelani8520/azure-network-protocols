@@ -25,7 +25,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - create a resource group and virtual machines setting up subnet
 - view virtual machines in in remote desktop 
-- using command-line tools such as
+- using command-line tools such as  nslookup , cd,ls.cat.ipconfig ,-t,ume -a 
 - install wireshark
 - view various network protocols
 
@@ -72,6 +72,43 @@ i then  observed the two vms under the same subnet
 
 i had to get a little creative with with viewing the vm's because i have a older system so i downloaded and configrued it to work and view 
 <img width="1680" alt="Screen Shot 2025-02-13 at 7 24 01 PM" src="https://github.com/user-attachments/assets/8d5442ca-4849-4d86-8183-930e03622f1f" />
+
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 8 59 09 PM" src="https://github.com/user-attachments/assets/79d157f8-67aa-4b22-8270-ab8b6e057eba" />
+after i copied the public ip address i then login in as a labuser 
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 9 04 20 PM" src="https://github.com/user-attachments/assets/1f5a8ebe-05a2-4048-b057-5a5d79f5f5ab" />
+i use the web browser to then download wireshark Protocol Analyzer
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 9 09 47 PM" src="https://github.com/user-attachments/assets/a054f3db-d51a-4ea0-9eaa-de6b34c79b83" />
+within wireshark i clicked on ethernet to start the capture then i fillerd for icmp traffic by opening powershell and sending a ping observing the traffic between the public and private ip address
+<img width="1680" alt="Screen Shot 2025-02-13 at 9 17 25 PM" src="https://github.com/user-attachments/assets/5d1596d6-e62a-480c-82f2-e931a41a8940" />
+in powershell i ran a non-stop ping  using command -t 
+<img width="1680" alt="Screen Shot 2025-02-13 at 9 17 25 PM" src="https://github.com/user-attachments/assets/e7ed8e6d-b761-4848-a90b-05f7df2922e6" />
+within the network setting i created a fire wall from setting any icmp traffic and observed the change before deleting the rule
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 9 20 11 PM" src="https://github.com/user-attachments/assets/ce41c921-f3bf-4d78-8c07-b17f2cf74292" />
+<img width="1680" alt="Screen Shot 2025-02-13 at 9 22 00 PM" src="https://github.com/user-attachments/assets/ea047434-6d62-4505-883a-70527c67d7b4" />
+in wireshark i fillterd for ssh and run ssh in powershell  
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 9 29 21 PM" src="https://github.com/user-attachments/assets/f7f1f055-a46a-4fc9-a94d-164075813b40" />
+
+
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 9 46 13 PM" src="https://github.com/user-attachments/assets/50e6fb9b-9fea-4124-914c-b2610462de78" />
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 9 52 49 PM" src="https://github.com/user-attachments/assets/e0f5af7b-c02a-4d17-a65f-b9cc49c2a42c" />
+
+
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 9 52 49 PM" src="https://github.com/user-attachments/assets/f3c92c39-65c6-4c07-97a5-dc20e07ce5dc" />
+
+
+
+
+
+
+
 
 
 
