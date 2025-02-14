@@ -98,10 +98,9 @@ dhcp traffic that was captured
 <img width="1680" alt="Screen Shot 2025-02-13 at 9 46 13 PM" src="https://github.com/user-attachments/assets/50e6fb9b-9fea-4124-914c-b2610462de78" />
  i fillerd for rdp traffic by by using udp.port 3389 
 <img width="1680" alt="Screen Shot 2025-02-13 at 9 52 49 PM" src="https://github.com/user-attachments/assets/e0f5af7b-c02a-4d17-a65f-b9cc49c2a42c" />
- 
+ i fillered and used dns to see traffic when using nslookup
 
-
-
+<img width="1680" alt="Screen Shot 2025-02-13 at 9 49 56 PM" src="https://github.com/user-attachments/assets/03eb0c8d-0691-4f7c-904c-9f8acf22b76e" />
 
 
 
