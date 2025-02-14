@@ -35,7 +35,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ><img width="1680" alt="Screen Shot 2025-02-13 at 6 50 14 PM" src="https://github.com/user-attachments/assets/40fac726-cf6c-45b2-8b5b-f1c2a8979f81" />
 
 <p>
-in the mircosoft azure portal in the steps to create a virtual machines i had to create a resource group
+in Microsoft Azure i created a reasource group
+A Resource Group in Azure is a logical container for managing and organizing Azure resources (e.g., virtual machines, storage accounts, databases, etc.). You can create a resource group using different methods i used the azure portal 
+
 </p>
 <br /><img width="1680" alt="Screen Shot 2025-02-13 at 6 52 12 PM" src="https://github.com/user-attachments/assets/03d9bf23-7ffd-4342-96c0-8dfa36fbcbbf" />
 
@@ -73,9 +75,4 @@ i had to get a little creative with with viewing the vm's because i have a older
 
 
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p><img width="1680" alt="Screen Shot 2025-02-03 at 2 05 54 PM" src="https://github.com/user-attachments/assets/91776f6b-2d21-452f-b9df-8c2954f7fb31" />
-
-<br /><img width="1680" alt="Screen Shot 2025-02-03 at 9 06 47 AM" src="https://github.com/user-attachments/assets/58f8c252-834c-43b8-bdf9-5ac23a5c697c" />
 
