@@ -39,36 +39,35 @@ in the mircosoft azure portal in the steps to create a virtual machines i had to
 </p>
 <br /><img width="1680" alt="Screen Shot 2025-02-13 at 6 52 12 PM" src="https://github.com/user-attachments/assets/03d9bf23-7ffd-4342-96c0-8dfa36fbcbbf" />
 
-after creating the resource group i then when in the platform to navigate to the virtual machines to create a windows 10 virtual machine
+after creating the resource group i observed it
 <p>
 
 <img width="1680" alt="Screen Shot 2025-02-13 at 6 52 52 PM" src="https://github.com/user-attachments/assets/b1f4b9f2-d98a-4d6a-8622-16fc599ed2bf" />
-
+after its creation i then navaigated to virtual macines
 
 <img width="1680" alt="Screen Shot 2025-02-13 at 6 54 20 PM" src="https://github.com/user-attachments/assets/4733b555-c467-4fdd-bd97-ebf46f5bc9d7" />
-
+i filled out all the steps such as setting the correct resource group ( rg - network activites )  and the correct image  windows 10 x64 gen  for the right display  
 
 <img width="1680" alt="Screen Shot 2025-02-13 at 6 55 20 PM" src="https://github.com/user-attachments/assets/64327984-2596-42ad-988d-e7bee6e8d530" />
-
+while creating i setup the subnet mask so that the two systems could reach each other 
 
 <img width="1680" alt="Screen Shot 2025-02-13 at 6 56 30 PM" src="https://github.com/user-attachments/assets/1af85eb6-c095-46e9-a523-9d481ad7cd73" />
 
 
 < ><img width="1680" alt="Screen Shot 2025-02-13 at 6 58 24 PM" src="https://github.com/user-attachments/assets/3f5a4280-1a18-4993-8dbf-f3c8f7ba360c" />
-
+in the resource group i observe it being made 
 
 <img width="1680" alt="Screen Shot 2025-02-13 at 7 01 22 PM" src="https://github.com/user-attachments/assets/99a824a7-c038-46aa-a63c-6d331b14ab56" />
-
-
+i then created the linux  vm with Ubuntu Server 20.04 and set a user and password 
 <img width="1680" alt="Screen Shot 2025-02-13 at 7 05 50 PM" src="https://github.com/user-attachments/assets/0f4b7820-e882-429b-91ec-d399ff8ddf67" />
-
+i then put the linux vm under the same resource group 
 
 <img width="1680" alt="Screen Shot 2025-02-13 at 7 08 14 PM" src="https://github.com/user-attachments/assets/c5fee2f8-100b-4a6f-8e1f-d384cb3b0afd" />
-
+i then  observed the two vms under the same subnet
 
 <img width="1680" alt="Screen Shot 2025-02-13 at 7 08 27 PM" src="https://github.com/user-attachments/assets/0022a572-0fdf-40dd-98db-44471f4b84ef" />
 
-
+i had to get a little creative with with viewing the vm's because i have a older system so i downloaded and configrued it to work and view 
 <img width="1680" alt="Screen Shot 2025-02-13 at 7 24 01 PM" src="https://github.com/user-attachments/assets/8d5442ca-4849-4d86-8183-930e03622f1f" />
 
 
