@@ -93,7 +93,7 @@ in wireshark i fillterd for ssh and run ssh in powershell
 
 <img width="1680" alt="Screen Shot 2025-02-13 at 9 29 21 PM" src="https://github.com/user-attachments/assets/f7f1f055-a46a-4fc9-a94d-164075813b40" />
 
-
+dhcp traffic that was captured
 
 <img width="1680" alt="Screen Shot 2025-02-13 at 9 46 13 PM" src="https://github.com/user-attachments/assets/50e6fb9b-9fea-4124-914c-b2610462de78" />
  i fillerd for rdp traffic by by using udp.port 3389 
