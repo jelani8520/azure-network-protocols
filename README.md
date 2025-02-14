@@ -32,25 +32,48 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <p>
 
-</p>img width="1680" alt="Screen Shot 2025-02-01 at 3 07 25 PM" src="https://github.com/user-attachments/assets/4cc7309f-cc1e-4de6-9d4d-d3848946781e" />
+><img width="1680" alt="Screen Shot 2025-02-13 at 6 50 14 PM" src="https://github.com/user-attachments/assets/40fac726-cf6c-45b2-8b5b-f1c2a8979f81" />
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+in the mircosoft azure portal in the steps to create a virtual machines i had to create a resource group
 </p>
-<br />
+<br /><img width="1680" alt="Screen Shot 2025-02-13 at 6 52 12 PM" src="https://github.com/user-attachments/assets/03d9bf23-7ffd-4342-96c0-8dfa36fbcbbf" />
+
+after creating the resource group i then when in the platform to navigate to the virtual machines to create a windows 10 virtual machine
 <p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<img width="1680" alt="Screen Shot 2025-02-01 at 3 07 45 PM" src="https://github.com/user-attachments/assets/42926b0b-e831-4df6-b488-d28b98e44c3a" />
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 6 52 52 PM" src="https://github.com/user-attachments/assets/b1f4b9f2-d98a-4d6a-8622-16fc599ed2bf" />
+
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 6 54 20 PM" src="https://github.com/user-attachments/assets/4733b555-c467-4fdd-bd97-ebf46f5bc9d7" />
+
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 6 55 20 PM" src="https://github.com/user-attachments/assets/64327984-2596-42ad-988d-e7bee6e8d530" />
+
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 6 56 30 PM" src="https://github.com/user-attachments/assets/1af85eb6-c095-46e9-a523-9d481ad7cd73" />
+
+
+< ><img width="1680" alt="Screen Shot 2025-02-13 at 6 58 24 PM" src="https://github.com/user-attachments/assets/3f5a4280-1a18-4993-8dbf-f3c8f7ba360c" />
+
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 7 01 22 PM" src="https://github.com/user-attachments/assets/99a824a7-c038-46aa-a63c-6d331b14ab56" />
+
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 7 05 50 PM" src="https://github.com/user-attachments/assets/0f4b7820-e882-429b-91ec-d399ff8ddf67" />
+
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 7 08 14 PM" src="https://github.com/user-attachments/assets/c5fee2f8-100b-4a6f-8e1f-d384cb3b0afd" />
+
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 7 08 27 PM" src="https://github.com/user-attachments/assets/0022a572-0fdf-40dd-98db-44471f4b84ef" />
+
+
+<img width="1680" alt="Screen Shot 2025-02-13 at 7 24 01 PM" src="https://github.com/user-attachments/assets/8d5442ca-4849-4d86-8183-930e03622f1f" />
 
 
 
-<br /><img width="1680" alt="Screen Shot 2025-02-03 at 9 34 18 AM" src="https://github.com/user-attachments/assets/85efdb13-0a5f-4d29-b332-6c9643d227fe" />
 
-<img width="1680" alt="Screen Shot 2025-02-03 at 12 10 16 PM" src="https://github.com/user-attachments/assets/152aa88d-63ce-4ead-be00-d59ade6dee6a" />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p><img width="1680" alt="Screen Shot 2025-02-03 at 9 26 01 AM" src="https://github.com/user-attachments/assets/6d4aa77a-06a1-4ac3-ad2b-6356bd754c2c" />
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p><img width="1680" alt="Screen Shot 2025-02-03 at 2 05 54 PM" src="https://github.com/user-attachments/assets/91776f6b-2d21-452f-b9df-8c2954f7fb31" />
